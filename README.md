@@ -15,3 +15,5 @@ Catatan PR (fitur yang belum ditambahkan pada program)
 1. Program belum disimpan didalam file
 2. fitur pengurutan produk berdasarkan harga dan nama produk (fitur No 3 di fitur utama) belum ditambahkan pada program
 3. Fitur main utama (int main) belum ditambahkan pada program
+4. stack
+5. queue
